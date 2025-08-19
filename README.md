@@ -1,2 +1,2 @@
 # ReactComponents2
-Created with CodeSandbox
+Practicing react components with Sandbox

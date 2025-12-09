@@ -1,2 +1,2 @@
 # ReactComponents2
-Practicing react components with Sandbox
+Practicing react components with Sandbox a small, small app.
